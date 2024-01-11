@@ -35,7 +35,7 @@ a, a:link {
 	text-transform: uppercase;
 }
 
-.text.cap{
+.text-cap{
 	text-transform: capitalize;
 }
 
@@ -168,4 +168,16 @@ a, a:link {
 	opacity: 0;
 }
 
+/* ======= main > icons ========= */
+
+.video {
+	padding-top: 100px;
+}
+
+.video h2 {
+	margin-bottom: 20px;
+	font-size: 30px;
+	color: #000000;
+	font-weight: 900px;
+}
 
