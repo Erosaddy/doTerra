@@ -10,6 +10,12 @@ a, a:link {
 	text-decoration: none;
 }
 
+hr {
+	border: 0;
+	height: 1px;
+	background-color: #cccccc
+}
+
 .container {
 	max-width: 1000px;
 	
@@ -41,6 +47,11 @@ a, a:link {
 
 .mt-100 {
 	margin-top: 100px;
+}
+
+.my-10 {
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 .my-50 {
@@ -169,10 +180,6 @@ a, a:link {
 }
 
 /* ======= main > icons ========= */
-
-.video {
-	padding-top: 100px;
-}
 
 .video h2 {
 	margin-bottom: 20px;
